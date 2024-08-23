@@ -8,5 +8,5 @@
 
 ---
 
-# DeOldify by Jason Antic
+- DeOldify by Jason Antic
   https://github.com/jantic/DeOldify/
