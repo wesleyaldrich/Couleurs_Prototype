@@ -1,5 +1,5 @@
 # Couleurs
-  **Couleurs** is a simple image colorizing project. The program is supposed to receive inputs in form of images, then return the colorized same image.
+  **Couleurs** is a simple image colorizing project. The application is supposed to receive inputs in form of images, then return the colorized same image.
   This project utilizes the model of **DeOldify by Jason Antic** as the AI to colorize images.
 
 # Prototype
